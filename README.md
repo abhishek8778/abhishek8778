@@ -12,6 +12,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek8778&layout=compact&theme=radical)]
 
 
-![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhishek8778&show_icons=true&theme=radical)
+![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhishek8778&show_icons=true&theme=radical)]
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abhishek87781&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=abhishek8778&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
