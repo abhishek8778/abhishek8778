@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning **nodejs,reactjs**
 
 
-![Profile views](https://gpvc.arturio.dev/[abhishek8778])
+![Profile views](https://gpvc.arturio.dev/abhishek8778)
 
 
 <h3 align="left">Languages and Tools:</h3>
