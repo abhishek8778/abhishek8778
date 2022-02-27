@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abhishek RANA</h1>
 <h3 align="center">A Front-End developer from India</h3>
 
-- 🌱 I’m currently learning **nodejs,reactjs**
 
 
 ![](https://komarev.com/ghpvc/?username=abhishek8778&color=green)
