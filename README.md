@@ -16,8 +16,8 @@
   
   
   
+![Abhishek's github status](https://github-readme-stats.vercel.app/api?username=abhishek8778&count_private=true&show_icons=true&theme=cobalt)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek8778&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek8778&theme=cobalt&exclude_repo=shihab4t.github.io&langs_count=10&hide=jupyter%20notebook,html,css,dockerfile,mako,vim%20script,procfile)
 
-
-![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhishek8778&show_icons=true&theme=radical)
+![Profile views](https://gpvc.arturio.dev/abhishek8778)
